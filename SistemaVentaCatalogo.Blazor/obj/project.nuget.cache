@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Ewy7iJbJT8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Blazor\\SistemaVentaCatalogo.Blazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joseg\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
