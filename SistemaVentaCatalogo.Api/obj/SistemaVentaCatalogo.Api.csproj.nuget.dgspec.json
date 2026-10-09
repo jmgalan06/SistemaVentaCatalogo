@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\SistemaVentaCatalogo.Api.csproj": {}
+    "c:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\SistemaVentaCatalogo.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\SistemaVentaCatalogo.Api.csproj": {
+    "c:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\SistemaVentaCatalogo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\SistemaVentaCatalogo.Api.csproj",
+        "projectUniqueName": "c:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\SistemaVentaCatalogo.Api.csproj",
         "projectName": "SistemaVentaCatalogo.Api",
-        "projectPath": "C:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\SistemaVentaCatalogo.Api.csproj",
+        "projectPath": "c:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\SistemaVentaCatalogo.Api.csproj",
         "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\obj\\",
+        "outputPath": "c:\\Users\\joseg\\OneDrive\\Desktop\\ProyectoFinal\\SistemaVentaCatalogo\\SistemaVentaCatalogo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,2 +1,4 @@
 <Solution>
+  <Project Path="SistemaVentaCatalogo.Api/SistemaVentaCatalogo.Api.csproj" />
+  <Project Path="SistemaVentaCatalogo.Blazor/SistemaVentaCatalogo.Blazor.csproj" />
 </Solution>
